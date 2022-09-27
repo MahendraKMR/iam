@@ -7,5 +7,6 @@ class sum
     int c=a+b;
     //prints the sum of two numbers
     System.out.println(c);
+    System.out.println(c-a);
   }
 }
